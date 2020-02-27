@@ -1,4 +1,4 @@
 # pythonlife
 Python examples
 
-# [jupyter notebook](https://github.com/treeandgrass/pythonlife/tree/master/pythonbasics)
+# [example1: jupyter notebook](https://github.com/treeandgrass/pythonlife/blob/master/pythonbasics/pythoncondition.ipynb)
