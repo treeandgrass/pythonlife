@@ -1,4 +1,4 @@
 # pythonlife
-python编程，博客中的实例
+Python examples
 
-# (jupyter notebook)[https://github.com/treeandgrass/pythonlife/tree/master/pythonbasics]
+# [jupyter notebook](https://github.com/treeandgrass/pythonlife/tree/master/pythonbasics)
