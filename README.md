@@ -1,2 +1,4 @@
 # pythonlife
-python编程，博客中的实例
+Python examples
+
+# [example1: jupyter notebook](https://github.com/treeandgrass/pythonlife/blob/master/pythonbasics/pythoncondition.ipynb)
